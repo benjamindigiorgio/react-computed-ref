@@ -1,5 +1,9 @@
 # React Signals and Computed Library
 
+![tests](https://github.com/benjamindigiorgio/react-computed-ref/workflows/test/badge.svg?branch=main)
+[![npm version](https://badge.fury.io/js/react-signals-computed.svg)](https://badge.fury.io/js/react-signals-computed)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This library provides `useSignal` and `useComputed` hooks for managing state and derived state in React applications. These hooks are designed to work together to handle rapid updates, complex dependencies, and asynchronous updates efficiently.
 
 ## Installation
