@@ -1,6 +1,6 @@
 # React Signals and Computed Library
 
-![tests](https://github.com/benjamindigiorgio/react-computed-ref/workflows/test/badge.svg?branch=main)
+![tests](https://github.com/benjamindigiorgio/react-computed-ref/actions/workflows/test.yml/badge.svg?branch=main)
 [![npm version](https://badge.fury.io/js/react-signals-computed.svg)](https://badge.fury.io/js/react-signals-computed)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
