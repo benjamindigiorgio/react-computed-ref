@@ -1,0 +1,36 @@
+{
+  "name": "react-computed-ref",
+  "version": "1.0.0",
+  "description": "Vue-like refs (signals) and computed properties for React",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsup"
+  },
+  "keywords": [
+    "React",
+    "reactivity",
+    "signals"
+  ],
+  "author": "Ben Di Giorgio",
+  "license": "MIT",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.4.6",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/react-hooks": "^8.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/jest": "^29.5.12",
+    "@types/react": "^18.3.3",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "react-dom": "^18.3.1",
+    "ts-jest": "^29.1.4",
+    "tsup": "^8.1.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
